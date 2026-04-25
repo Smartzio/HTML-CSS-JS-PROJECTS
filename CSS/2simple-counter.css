@@ -1,0 +1,77 @@
+  /* Targets every element on the page */
+        * {
+            margin: 0;
+            /* Removes all default outside spacing */
+            padding: 0;
+            /* Removes all default inside spacing */
+            box-sizing: border-box;
+            /* Makes width/height include padding and border */
+        }
+
+        /* Styles the main body of the page */
+        body {
+            height: 100vh;
+            /* Makes the body take up the full screen height */
+            display: flex;
+            /* Enables flexbox layout */
+            justify-content: center;
+            /* Centers content horizontally */
+            align-items: center;
+            /* Centers content vertically */
+            background-color: #f1f1f1;
+            /* Sets a light grey background */
+        }
+
+        /* Styles the box that holds all the counter elements */
+        .container {
+            text-align: center;
+            /* Centers all text and inline elements inside */
+        }
+
+        /* Styles the Counter heading */
+        h1 {
+            font-size: 2rem;
+            /* Sets heading size */
+            margin-bottom: 20px;
+            /* Adds space below the heading */
+        }
+
+        /* Styles the number display */
+        #value {
+            font-size: 5rem;
+            /* Makes the number big */
+            font-weight: bold;
+            /* Makes the number bold */
+            display: block;
+            /* Forces it onto its own line */
+            margin-bottom: 30px;
+            /* Adds space between number and buttons */
+        }
+
+        /* Styles all three buttons */
+        button {
+            height: 45px;
+            /* Sets button height */
+            width: 120px;
+            /* Sets button width */
+            font-size: 1rem;
+            /* Sets text size inside button */
+            cursor: pointer;
+            /* Shows hand cursor on hover */
+            border: 2px solid black;
+            /* Adds a black border around each button */
+            background-color: white;
+            /* Sets default button background to white */
+            border-radius: 5px;
+            /* Slightly rounds the button corners */
+            margin: 5px;
+            /* Adds spacing between buttons */
+        }
+
+        /* Styles buttons when the mouse hovers over them */
+        button:hover {
+            background-color: black;
+            /* Fills button black on hover */
+            color: white;
+            /* Changes text to white on hover */
+        }
