@@ -1,4 +1,4 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,20 +6,20 @@
 body {
   font-family: sans-serif;
   background-color: #111;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
   align-items: center;
   justify-content: center;
   gap: 30px;
 }
 .slider {
-  width: 800px;
-  height: 500px;
   position: relative;
-  overflow: hidden;
-  border-radius: 20px;
+  width: 800px;
   max-width: 95vw;
+  height: 480px;
+  border-radius: 12px;
+  overflow: hidden;
 }
 .sliderTrack {
   display: flex;
@@ -29,34 +29,35 @@ body {
 .slide {
   min-width: 100%;
   height: 100%;
+  position: relative;
 }
 .slide img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+
 }
-.sliderCaption {
+.slideCaption {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
   padding: 20px 25px;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
   color: white;
 }
-.sliderCaption h3 {
+.slideCaption h3 {
   font-size: 1.2rem;
   margin-bottom: 5px;
 }
-.sliderCaption p {
-  font-size: 1.2rem;
-  color: pink;
+.slideCaption p {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.75);
 }
-
-
 .sliderBtn {
   position: absolute;
   top: 50%;
-  transform: translate(-50%);
+  transform: translateY(-50%);
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
   border: none;
@@ -69,13 +70,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background-color 0.3s ease;
 }
 .sliderBtn:hover {
   background-color: rgba(0, 0, 0, 0.85);
 }
-
-.prevBtn { left: 15px;}
+.prevBtn { left: 15px}
 .nextBtn { right: 15px;}
 
 .dots {
@@ -86,7 +85,11 @@ body {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: rgba(225, 225, 225, 0.4);
+  background-color: rgba(255, 255, 255, 0.4);
   cursor: pointer;
   transition: all 0.3s ease;
+}
+.dot.active {
+  background-color: white;
+  transform: scale(1.3);
 }
