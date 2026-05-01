@@ -31,7 +31,7 @@ const slides = [
 const slider = document.getElementById("slider");
 const sliderTrack = document.getElementById("sliderTrack");
 const dotsContainer = document.getElementById("dots")
-const pervBtn = document.getElementById("pervBtn");
+const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
 
 let currentIndex = 0;
