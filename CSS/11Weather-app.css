@@ -3,3 +3,144 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(135deg, #1a1a2e, #4d68b5, #0453b3);
+  align-items: center; 
+  min-height: 100vh; 
+  
+}
+.card {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 40px 35px;
+  width: 380px;
+  max-width: 95vw;
+  color: white;
+  box-shadow: 0 8px 32px rgba(255, 255, 255, 0.3);
+
+  
+}
+.card h1 {
+  font-size: 1.5rem;
+  margin-bottom: 25px;
+  text-align: center;
+  letter-spacing: 2px;
+  opacity: 0.9;
+}
+
+.search-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.search-input {
+  flex: 1;
+  padding: 12px 16px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s ease;
+
+}
+
+.search-input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.search-input:focus {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+.search-btn {
+  padding: 12px 18px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.search-btn:hover {
+  background-color: rgba(255, 255, 255, 0.35);
+}
+
+.error {
+  text-align: center;
+  padding: 15px;
+  background-color: rgba(255, 80, 80, 0.2);
+  border-radius: 10px;
+  margin-bottom: 15px;
+  display: none;
+  font-size: 0.9rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px 0;
+  opacity: 0.7;
+  display: none;
+  
+}
+
+.weather-result {
+  display: none;
+  text-align: center;
+}
+
+.weather-icon {
+  font-size: 5rem;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.city-name {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.country {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 1rem;
+  opacity: 0.8;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+}
+
+.details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.detail-item {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 15px 10px;
+  text-align: center;
+}
+
+.detail-label {
+  font-size: 0.75rem;
+  opacity: 0.65;
+  margin-bottom: 6px;
+}
+
+.detail-value {
+  font-size: 1rem;
+  font-weight: bold;
+}
