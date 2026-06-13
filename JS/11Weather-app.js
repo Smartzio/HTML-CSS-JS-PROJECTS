@@ -1,6 +1,5 @@
-
 // GRAB MY API KEY
-const API_KEY = "MY API_KEY";
+const API_KEY = "a9a5a7f85b9dbdf2cd59f28fc66a3dc4";
 
 //GRAB ALL ELEMENTS FROM HTML BY ID
 const searchInput = document.getElementById("searchInput");
