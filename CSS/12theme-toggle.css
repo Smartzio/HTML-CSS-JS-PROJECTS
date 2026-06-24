@@ -1,0 +1,45 @@
+/* Base theme - Light Mode */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --button-bg: #2563eb;
+  --button-text: #ffffff;
+}
+
+/* Dark theme overrides via data attribute */
+[data-theme="dark"] {
+  --bg-color: #0f172a;
+  --text-color: #f8fafc;
+  --button-bg: #818cf8;
+  --button-text: #0f172a;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+button {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+  margin-top: 20px;
+}
+
+button:active {
+  transform: scale(0.95);
+}
