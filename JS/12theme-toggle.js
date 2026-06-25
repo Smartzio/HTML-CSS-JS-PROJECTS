@@ -2,7 +2,7 @@
 const storedTheme = localStorage.getItem('theme');
 const systemPreferDark = window.matchMedia('prefers-color-scheme: dark').matches;
 
-if (storedTheme === 'dark' || (!storedTheme && systemPreferDArk)) {
+if (storedTheme === 'dark' || (!storedTheme && systemPreferDark)) {
   document.documentElement.setAttribute('data-theme', 'dark');
 }
 
