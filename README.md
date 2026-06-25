@@ -32,6 +32,20 @@
 [VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/8Restaurant%20Menu%20Page.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..i6Rl8vxY7wR4d5Tn.JQMRAJNJOJnCdhD9a93yLeottKqyZGPGoScZk-mZhGNDH3mZxCSwFfvuD_kbV6ooTy-5Qu2eD3QpU5W8gIRZk1jYx0dGvMCPo851VtBUDCPM3IOpiCeGiPMVS6SJDrp7PAoc4WdcK_9yQ6GIXTWvI4-wub_ylAG2iVz5zqyfA_3GjsUCS-eaaysDUgCuYsN2inYCyU70KomRv29XS2NUNOW9gn7ymCheRfbtLA.A-pq0dGnzEN77IddW3Ovgw&1782395202079) 
 <img width="744" height="458" alt="image" src="https://github.com/user-attachments/assets/8c3649ed-e208-4c49-aebb-ff22d5c04bed" />
 
+## PROJECT 9 - VIDEO BACKGROUND
+[VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/9Video%20background.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..zdyvlXOJzHBHVS8c.3NTHXjxFrfUbm7TMUHlHaH95QB8vGENy1nAx-H1MHPs3qZAeJrMDmJ4c7jhMyp98ukF9mUR93cRYI7DGPxkJL3Z0xxVIEXnHVmRl2q5N1DeBqPyOUBdRmDlk-D-5l9SCAqfQikODC9hkxqPyF3YXHz8nT_qoMgUQw_hanmg6AhR8TK4eSYrwjlUkvwYoabWd4vno7-8hjbAzUIo16Znl1CP1CmcjckWHm_iyow.k5wZ5yf74GDGv50QRyRmEg&1782395353210) 
+<img width="191" height="106" alt="image" src="https://github.com/user-attachments/assets/1cf3feb2-408a-4709-8e89-9c63543ec3a1" />
+
+## PROJECT 10 - IMAGE SLIDER
+[VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/10-imageSlider.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..-lETvKEXNYEXW1YS.xuWMB8nSJ0HyqVOqvYpfc1sR0Fw2daChlhNqbnEZ7Qob0xrfyRJmGYduNjfTHtkjbJ0FYD6ro80HR8sAC8AQj-nYy0NUb3MmUdkhuweknySpfgtB94LwkyxOQ_nAIsBVEsB6-dqVfhcQudESH0Asz7sx_iwvP1o9P9NAAPPiIBe2WJTkEMbYQmdORwSzD-q9brPEY3loukrmRDEyIrjadhJaD58B-wm3rdItpg.NXLElEsWTBk7VYqmMHu5kg&1782395606671) 
+<img width="609" height="406" alt="image" src="https://github.com/user-attachments/assets/a6ea014b-3913-4905-b5e9-d3758f86c1d5" />
+
+## PROJECT 11 - WEATHER APP
+[VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/11Weather-app.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..wo1W9EA4RpUmYdnN.WQkb8oB-TxwuQryDyFPgBso4tqy-HGIu_H1E_ivBYfiIBwPkKYAz74czisLFfT32zgLJv5lSIVw1etoOJ_gFf_xjW-KumZvFUUqRdMfY2kJgRzMeeIMlNdqDheyh1lUq13dcnTx-1Rd0uFIXqjk2irDakbsgmWGPwp4axaTb8Tls1yjb2nYugN2c6eIgwUCgAgpeJrKdm8YkbAQIuCvNp2vBghxd3W2RD--ePg.Ay5D1F06npV_XGSrzhuefg&1782395696105) 
+<img width="419" height="522" alt="image" src="https://github.com/user-attachments/assets/574264f9-4bf5-482d-8818-62b8c0eecb70" />
+
+
+
 
 
 
