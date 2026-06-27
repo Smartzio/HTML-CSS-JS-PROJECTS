@@ -1,13 +1,13 @@
 //Check local storage and OS preferences immediately
 const storedTheme = localStorage.getItem('theme');
-const systemPreferDark = window.matchMedia('prefers-color-scheme: dark').matches;
+const systemPreferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
 if (storedTheme === 'dark' || (!storedTheme && systemPreferDark)) {
   document.documentElement.setAttribute('data-theme', 'dark');
 }
 
 /** USING TENARY OPERATION RATHER
-(storedTheme === 'dark' || (!storedTheme && systemPrefersDark))
+(storedTheme === 'dark' || (!storedTheme && systemPreferDark))
     ? document.documentElement.setAttribute('data-theme', 'dark')
     : null;
 **/
