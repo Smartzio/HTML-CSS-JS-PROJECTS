@@ -44,6 +44,10 @@
 [VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/11Weather-app.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..wo1W9EA4RpUmYdnN.WQkb8oB-TxwuQryDyFPgBso4tqy-HGIu_H1E_ivBYfiIBwPkKYAz74czisLFfT32zgLJv5lSIVw1etoOJ_gFf_xjW-KumZvFUUqRdMfY2kJgRzMeeIMlNdqDheyh1lUq13dcnTx-1Rd0uFIXqjk2irDakbsgmWGPwp4axaTb8Tls1yjb2nYugN2c6eIgwUCgAgpeJrKdm8YkbAQIuCvNp2vBghxd3W2RD--ePg.Ay5D1F06npV_XGSrzhuefg&1782395696105) 
 <img width="419" height="522" alt="image" src="https://github.com/user-attachments/assets/574264f9-4bf5-482d-8818-62b8c0eecb70" />
 
+## PROJECT 12 - DARK MODE TOGGLE
+[VIEW](https://github-html-preview.dohyeon5626.com/?https://github.com/Smartzio/HTML-CSS-JS-PROJECTS/blob/main/12theme-toggle.html&eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..YsC2JRC_gcmBgB7S.sgFN_08i9obhXrvW8dgbDwlHCmyUUgMnl2vYp5Oy0l-hHAKPkFcsyT-uk3hGaE_6OO6Atks2jV3XAkovpQKrVpUjr8ojq7aFt-16iPHAwcZ2kADjzP7gSGQ4ZsQG9Fp-y-f94rlZ1yUkLHRqaDpKdy45GxmLDt6dghEX1fxRGVcKcqLADmW0grHLcLQryvPOs25EBlgkHQpG0kTnlLNZCr-Q_BzyvmZPAed_IA.zONhnDPK1_uypwKh08qaYw&1782397200283) 
+<img width="395" height="264" alt="image" src="https://github.com/user-attachments/assets/882dae76-7516-42a8-ba4d-6fbb4810efdf" />
+
 
 
 
